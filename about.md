@@ -16,6 +16,9 @@ If you want to reach out, contribute a post idea, or find any bugs/typos/mistake
 stanleyy (at) andrew (dot) cmu (dot) edu
 stanleyyin3 (at) gmail (dot) com
 
+### Social
+[X (Twitter)](https://x.com/stanelyyin)
+
 ## Credits
 Theme from rhl-bthr (https://github.com/rhl-bthr/parchment).
 

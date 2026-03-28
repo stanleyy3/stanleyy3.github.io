@@ -6,8 +6,7 @@ url: "https://rahulbothra.com"
 baseurl: "/blog"
 
 footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
+footer_text: "Stanley Yin"
 
 profile-picture: assets/sunny_stanley.jpg
 favicon_location: assets/sunny_stanley.jpg
