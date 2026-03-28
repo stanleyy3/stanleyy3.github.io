@@ -1,16 +1,16 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: Stanley's Blog
+author: stanley
+subtitle: Interested in a lot of things
 
 url: "https://rahulbothra.com"
-baseurl: "/parchment"
+baseurl: "/blog"
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
 footer_text: "Theme by rhl-bthr"
 
-profile-picture: assets/profile.png
-favicon_location: assets/favicon.ico
+profile-picture: assets/sunny_stanley.jpg
+favicon_location: assets/sunny_stanley.jpg
 
 permalink: /:year-:month-:day-:title/
 sass:
@@ -20,5 +20,3 @@ sass:
 navbar:
  - name: "About"
    link: "about"
- - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
