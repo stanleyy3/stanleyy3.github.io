@@ -1,5 +1,6 @@
 # Blog
 A simple blog sharing interesting things I've learned about.
+
 Live at https://stanleyy3.github.io/parchment-jekyll.
 
 ## Contributing
