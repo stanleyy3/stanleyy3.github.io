@@ -7,7 +7,20 @@ title: About Me
 
 What's up! I'm Stanley Yin, an undergraduate at Carnegie Mellon University (Pittsburgh, PA). This is a simple blog to share interesting things that I have learned about.
 
-I'm interested in a lot of (maybe too many) topics: computers ((chip) architecture and design, runtime systems, algorithms, chip fabrication), machine intelligence, neuroscience, and physics (relativity, electromagnetism, quantum), and of course where they overlap. At a more amateur level, I'm also interested in economics, geopolitics, architecture, and design.
+I'm interested in many topics:
+- computers
+  - (chip) architecture and design
+  - runtime systems
+  - algorithms
+  - chip fabrication and materials
+- artificial intelligence
+- neuroscience
+- physics
+  - relativity
+  - electromagnetism
+  - quantum mechanics
+
+At a more auxiliary level, I'm also interested in economics, geopolitics, architecture, and design.
 
 ### Reach out!
 If you want to reach out, contribute a post idea, or find any bugs/typos/mistakes in the blog, make an issue to the [github](https://github.com/stanleyy3/stanleyy3.github.io)!
