@@ -7,7 +7,7 @@ title: About Me
 
 What's up! I'm Stanley Yin, an undergraduate at Carnegie Mellon University (Pittsburgh, PA). This is a simple blog to share interesting things that I have learned about.
 
-I'm interested in many topics:
+I'm interested in many topics including:
 - computers
   - (chip) architecture and design
   - runtime systems
