@@ -41,5 +41,5 @@ Theme from [rhl-bthr](https://github.com/rhl-bthr/parchment).
 <br/><br/>
 
 <p align = "center">
-  <img src="../assets/mount_hwangmaesan.png" width = "800"/>
+  <img src="../assets/rm_in_flowerfield.png" width = "800"/>
 </p>
