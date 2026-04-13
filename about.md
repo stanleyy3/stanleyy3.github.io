@@ -11,7 +11,7 @@ I'm interested in many topics including:
 - computers
   - (chip) architecture and design
   - runtime systems
-  - algorithms
+  - algorithms and theory
   - chip fabrication and materials
 - artificial intelligence
 - neuroscience
@@ -20,17 +20,19 @@ I'm interested in many topics including:
   - electromagnetism
   - quantum mechanics
 
+and [more](https://stanleyy3.github.io/tags/).
+
 At a more auxiliary level, I'm also interested in economics, geopolitics, architecture, and design.
 
 ### Reach out!
-If you want to reach out, contribute a post idea, or find any bugs/typos/mistakes in the blog, make an issue to the [github](https://github.com/stanleyy3/stanleyy3.github.io)!
+If you want to reach out, contribute a post idea, or find any bugs/typos/mistakes in the blog, make an issue to the [GitHub](https://github.com/stanleyy3/stanleyy3.github.io)!
 
 ### Contact
 stanleyy (at) andrew.cmu.edu
 
 stanleyyin3 (at) gmail.com
 
-### Social
+### Links
 [X (Twitter)](https://x.com/stanelyyin)
 
 ### Credits
