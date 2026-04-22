@@ -12,6 +12,8 @@
         <div class="content">
             {{ content }}
         </div>
-        {% include footer.html %}
+        {% unless page.hide_footer %}
+            {% include footer.html %}
+        {% endunless %}
     </div>
 </body>

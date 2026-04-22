@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+hide_footer: true
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -35,8 +36,6 @@ stanleyyin3 (at) gmail.com
 ### Credits
 Theme from [rhl-bthr](https://github.com/rhl-bthr/parchment).
 
-<br/><br/>
-
-<p align = "center">
-  <img src="../assets/rm_in_flowerfield.png" width = "800"/>
-</p>
+<div class="about-bottom-image">
+  <img src="../assets/rm_in_flowerfield_extended.png" alt="RM in flower field"/>
+</div>
