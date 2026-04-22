@@ -2,6 +2,16 @@
 layout: default
 ---
 
+{% if page.subtitle or page.description %}
+<div class="page-subtitle">
+    {% if page.subtitle %}
+        {{ page.subtitle }}
+    {% else %}
+        {{ page.description }}
+    {% endif %}
+</div>
+{% endif %}
+
 <div class="page-subtitle">
     {% for tag in page.tags %}
         {% if page.tags.first == tag %}

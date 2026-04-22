@@ -6,14 +6,14 @@ hide_footer: true
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-What's up! I'm Stanley Yin, an undergraduate at Carnegie Mellon University (Pittsburgh, PA). This is a general blog to share interesting things that I have learned about and thoughts.
+What's up! I'm Stanley Yin. I'm originally from Chicago, then New York City, and most recently Johns Creek (Metro Atlanta). I'm currently an undergraduate at Carnegie Mellon University here in Pittsburgh. This is a general blog to share interesting things that I have learned about and thoughts.
 
-I'm interested in a broad set of topics including:
+I'm interested in a broad area of fields including:
 - computers
-  - (chip) architecture and design
-  - runtime systems
+  - microarchitecture and logic design
+  - hardware/software co-design
+  - fabrication and materials
   - algorithms and theory
-  - chip fabrication and materials
 - intelligence
 - neuroscience
 - physics
