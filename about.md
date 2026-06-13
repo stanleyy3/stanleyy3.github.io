@@ -8,17 +8,16 @@ hide_footer: true
 
 What's up! I'm Stanley Yin. I'm originally from Chicago, then New York City, and most recently Johns Creek (Metro Atlanta). I'm currently an undergraduate at Carnegie Mellon University here in Pittsburgh. This is a general blog to share interesting things that I have learned about and thoughts.
 
-I'm interested in a broad area of fields including:
+I'm interested in a broad range of [topics](https://stanleyy3.github.io/tags/) including:
 - computers
   - microarchitecture and logic design
   - hardware/software co-design
-  - fabrication and materials
-  - algorithms and theory
+  - accelerators
+  - devices and materials
+  - information theory
 - intelligence
 - neuroscience
 - physics
-
-and [more](https://stanleyy3.github.io/tags/).
 
 At a more auxiliary level, I'm also interested in economics, geopolitics, architecture, and design.
 
